@@ -1,5 +1,5 @@
 [package]
-name = "grammar"
+name = "syntax"
 version = "0.1.0"
 authors = ["YuhanLiin <linyuhan0315@hotmail.com>"]
 edition = "2018"
